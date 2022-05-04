@@ -1,0 +1,64 @@
+User-Agent:Googlebot
+User-Agent:Bingbot
+Crawl-delay:0.1
+Disallow: /cart/
+Disallow: /cartmap/
+Disallow: /cuahangcuaban/
+Disallow: /cuahangcuaban/caidat/
+Disallow: /cuahangcuaban/baocao/
+Disallow: /cuahangcuaban/chitietdonhang/
+Disallow: /cuahangcuaban/nhanxet/
+Disallow: /cuahangcuaban/suasanpham/
+Disallow: /cuahangcuaban/themsanpham/
+Disallow: /cuahangcuaban/themsanphammoi/
+Disallow: /cuahangcuaban/traloinhanxet.vue/
+Disallow: /customer/
+Disallow: /customer/caidat/
+Disallow: /customer/donhang/
+Disallow: /customer/hoidap/
+Disallow: /customer/thongbao/
+Disallow: /customer/thongbao/
+Disallow: /customer/thongbao/
+Disallow: /donhang/
+Disallow: /login/
+Disallow: /map/
+Disallow: /mapshop/
+Disallow: /quanlia/
+Disallow: /shipper/
+Disallow: /shipper/doanhthu/
+Disallow: /shipper/map/
+Disallow: /shipper/mapnhanhang/
+Disallow: /shipper/xacnhandagiao/
+Disallow: /index.html
+
+User-Agent:*
+Crawl-delay:1
+Disallow: /cart/
+Disallow: /cartmap/
+Disallow: /cuahangcuaban/
+Disallow: /cuahangcuaban/caidat/
+Disallow: /cuahangcuaban/baocao/
+Disallow: /cuahangcuaban/chitietdonhang/
+Disallow: /cuahangcuaban/nhanxet/
+Disallow: /cuahangcuaban/suasanpham/
+Disallow: /cuahangcuaban/themsanpham/
+Disallow: /cuahangcuaban/themsanphammoi/
+Disallow: /cuahangcuaban/traloinhanxet.vue/
+Disallow: /customer/
+Disallow: /customer/caidat/
+Disallow: /customer/donhang/
+Disallow: /customer/hoidap/
+Disallow: /customer/thongbao/
+Disallow: /customer/thongbao/
+Disallow: /customer/thongbao/
+Disallow: /donhang/
+Disallow: /login/
+Disallow: /map/
+Disallow: /mapshop/
+Disallow: /quanlia/
+Disallow: /shipper/
+Disallow: /shipper/doanhthu/
+Disallow: /shipper/map/
+Disallow: /shipper/mapnhanhang/
+Disallow: /shipper/xacnhandagiao/
+Disallow: /index.html
